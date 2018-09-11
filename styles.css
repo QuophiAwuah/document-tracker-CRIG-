@@ -1,0 +1,55 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #efeff3;
+}
+.userimg{
+  margin-left: 40%;
+}
+
+
+@media screen and (max-width:600px){
+  .userimg{
+    margin-left: 30%;
+  }
+}
+
+.login_form{
+  margin-top: 15%;
+}
+.foot{
+  margin-top: 5%;
+}
+input['text']{
+  color: green;
+}
+
+
+.navbar-custom {
+    color: #555;
+    background-color: #E7E7E7;
+}
+
+h5 .text-center{
+  color: red;
+}
+.home{
+  margin-top: 5%;
+}
+
+.sec_send{
+  margin-top: 40px;
+}
+.but{
+  border: 0.2px solid gray;
+  padding: 10px;
+
+}
+.panel-heading{
+  background-color: #5cb85c;
+  color: white;
+}
+
+.badge-success {
+background-color: #398439;
+}

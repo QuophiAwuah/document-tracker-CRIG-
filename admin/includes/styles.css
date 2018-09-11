@@ -1,0 +1,37 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #efeff3;
+}
+.userimg{
+  margin-left: 40%;
+}
+
+
+@media screen and (max-width:600px){
+  .userimg{
+    margin-left: 30%;
+  }
+}
+
+.login_form{
+  margin-top: 15%;
+}
+.foot{
+  margin-top: 5%;
+  background-color: green;
+  color: white;
+  padding: 10px;
+}
+input['text']{
+  color: green;
+}
+
+
+.navbar-custom {
+    color: #555;
+    background-color: #E7E7E7;
+}
+nav{
+ margin-top: 5%;
+}
